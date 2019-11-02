@@ -1,3 +1,10 @@
+[//]: # (Image References)
+
+[image1]: ./img/equation.gif "Equation"
+
+
+![alt text][image1]
+
 ```
 [4, 5, 5, 7, 8, 10, 10, 11, 15, 40] = 115
 

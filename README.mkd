@@ -1,4 +1,4 @@
-`
+```
 [4, 5, 5, 7, 8, 10, 10, 11, 15, 40] = 115
 
 Calcule chaque element par la sommes des donnees diviser par le nombre total d'element le tout au carree 
@@ -20,4 +20,4 @@ Total des sommes des carres des ecart : 1002.5
 Variance : 1 / 10 * 1002.5 = 100.25
 
 Ecart type : racine carree de la variance = 10.01
-`
+```

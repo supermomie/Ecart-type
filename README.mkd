@@ -6,25 +6,26 @@
 ![alt text][image1]
 
 ```
-[4, 5, 5, 7, 8, 10, 10, 11, 15, 40] = 115
+[4, 5, 5, 7, 8, 9, 10, 10, 11, 15, 40] = 124
 
 Calcule chaque element par la sommes des donnees diviser par le nombre total d'element le tout au carree 
 
-(4 - 11.5) ^ 2 = 56.25
-(5 - 11.5) ^ 2 = 42.25
-(5 - 11.5) ^ 2 = 42.25
-(7 - 11.5) ^ 2 = 20.25
-(8 - 11.5) ^ 2 = 12.25
-(10 - 11.5) ^ 2 = 2.25
-(10 - 11.5) ^ 2 = 2.25
-(11 - 11.5) ^ 2 = 0.25
-(15 - 11.5) ^ 2 = 12.25
-(40 - 11.5) ^ 2 = 812.25
+(4 - 11.27) ^ 2 = 52.89
+(5 - 11.27) ^ 2 = 39.35
+(5 - 11.27) ^ 2 = 39.35
+(7 - 11.27) ^ 2 = 18.26
+(8 - 11.27) ^ 2 = 10.71
+(9 - 11.27) ^ 2 = 5.17
+(10 - 11.27) ^ 2 = 1.62
+(10 - 11.27) ^ 2 = 1.62
+(11 - 11.27) ^ 2 = 0.07
+(15 - 11.27) ^ 2 = 13.89
+(40 - 11.27) ^ 2 = 825.26
 
 
-Total des sommes des carres des ecart : 1002.5
+Total des sommes des carres des ecart : 1008.18
 
-Variance : 1 / 10 * 1002.5 = 100.25
+Variance : 1 / 11 * 1008.18 = 91.65
 
-Ecart type : racine carree de la variance = 10.01
+Ecart type : racine carree de la variance = 9.57
 ```

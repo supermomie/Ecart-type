@@ -1,6 +1,6 @@
 from math import *
 
-
+####setruiop[ioqutyuiopuytdrseyuioyd
 #liste des donnees
 ls = [4,5,5,7,8,9,10,10,11,15,40]
 
